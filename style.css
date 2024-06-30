@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.secao-top{
+    background-image: url("./img/rododrive.jfif");
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 600px;
+    text-align: center;
+    padding: 50px;
+    
+}
+
+h1, h2{
+    margin: 0 auto; 
+    color: #fff;
+    padding: 10px;
+    width: 300px;
+}
+
+h1{
+    background-color: #000;
+}
+
+h2{
+    background-color: #f00;
+}
+
+.secao-conteudo{
+    width: 900px;
+    margin: 0 auto;
+    padding: 50px 20px;
+}
+
+.secao-conteudo img{
+    width: 200px;
+    height: 250px;
+}
+
+.secao-divulgacao{
+    background-image: url("./img/rodo\ sucesso.jfif");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 800px;
+}
+p{
+    line-height: 26px;
+}
+.negrito{
+    color: #000;
+    font-weight: bold;
+}
+.vermelho{
+    color: #f00;
+}
+.destaque{
+    background-color: #d0f115;
+  color: #5e0707;
+  padding: 10px 25px;
+  border-radius: 10px;
+  
+}
